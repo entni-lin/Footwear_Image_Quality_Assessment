@@ -1,2 +1,9 @@
-# reseach_image_features
-This page is in private for now before I complete my dissertations :)
+# Image features
+This repository is in private for now before I complete my dissertation :) <br>
+There are four main features I've proposed to apply on footwear impression images (including high-quality Handiprints, relatively low-quality dust and blood impressions):
+1. Texture analysis features via gray-level co-occurrence matrix (GLCM)
+2. Spatial information via magnitudes of pixels after applying the Sobel filters 
+3. Fourier analysis
+4. Wavelet analysis using the method proposed by Vu and Chandler (2012) <br>
+P. V. Vu and D. M. Chandler, "A Fast Wavelet-Based Algorithm for Global and Local Image Sharpness Estimation," in IEEE Signal Processing Letters, vol. 19, no. 7, pp. 423-426, July 2012, doi: 10.1109/LSP.2012.2199980.
+5. Totality/complexity (percentage of white pixels - referred as to impressions, and perimeters of contours via OpenCV in Python)
