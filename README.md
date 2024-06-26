@@ -1,5 +1,5 @@
 # Image features
-This repository is private for now (**but you can see it via GitFront**) before I complete my dissertation :) <br>
+This repository is private for now before the paper is published.
 There are four main features I've proposed to apply on footwear impression images (including high-quality Handiprints, relatively low-quality dust and blood impressions):
 1. Texture analysis features via gray-level co-occurrence matrix (GLCM) in IDL: glcm_shoe.pro
 2. Spatial information via magnitudes of pixels after applying Sobel filters in IDL: spatial_information.pro
