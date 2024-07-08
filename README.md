@@ -10,4 +10,5 @@ P. V. Vu and D. M. Chandler, "A Fast Wavelet-Based Algorithm for Global and Loca
 5. Totality/complexity (percentage of white pixels - referred to as impressions, perimeters of contours via OpenCV, and create images with bounding box + contours): totality.py
 
 Lastly, the following R code creates quality assessment models using 10 image features extracted from the above codes:
+
 6. quality_model. R includes the code for the two best-quality assessment models.
