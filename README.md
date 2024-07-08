@@ -1,5 +1,5 @@
 # Footwear Image Quality Assessment
-This repository contains the code for image feature extraction (1-5) and the image quality assessment model (6) as proposed and used in E.-T. Lin's PhD dissertation, Footwear Image Quality Classification: Using Subjective Assessments and Objective Image Metrics to Predict Impression Quality, West Virginia University (2023).
+This repository contains the code for image feature extraction (1-5) and the image quality assessment model (6) as proposed and used in E.-T. Lin, Footwear Image Quality Classification: Using Subjective Assessments and Objective Image Metrics to Predict Impression Quality, PhD Dissertation, West Virginia University (2023)
 
 There are four main features proposed to apply on footwear impression images (including high-quality Handiprints, relatively low-quality dust and blood impressions):
 1. Texture analysis features via gray-level co-occurrence matrix (GLCM) in IDL: glcm_shoe.pro
