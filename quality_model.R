@@ -13,7 +13,7 @@ library(DescTools)
 ### The original csv file includes features used to fit the model is not provided, 
 ### but the RData which contains two trained and best models is provided.
 
-### Please download the RData from the repository and load the Rdata using line 16
+### Please download the RData from the repository and load the Rdata using line 17 (the next line)
 load(file = "quality_assessment_models.RData")
 
 ### Illustration of the data preparation steps
